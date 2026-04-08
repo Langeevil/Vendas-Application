@@ -1,0 +1,1 @@
+{"ok":true,"status":200,"error":"","body":[{"codcep":1,"numeroCep":"15777802"},{"codcep":2,"numeroCep":"15685382"}],"raw":"[{\"codcep\":1,\"numeroCep\":\"15777802\"},{\"codcep\":2,\"numeroCep\":\"15685382\"}]"}

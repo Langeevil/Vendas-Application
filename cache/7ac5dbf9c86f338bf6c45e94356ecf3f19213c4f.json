@@ -1,0 +1,1 @@
+{"ok":true,"status":200,"error":"","body":[{"codmarca":1,"nomemarca":"Nestlé"},{"codmarca":2,"nomemarca":"Kibon"},{"codmarca":3,"nomemarca":"Fini"}],"raw":"[{\"codmarca\":1,\"nomemarca\":\"Nestlé\"},{\"codmarca\":2,\"nomemarca\":\"Kibon\"},{\"codmarca\":3,\"nomemarca\":\"Fini\"}]"}
